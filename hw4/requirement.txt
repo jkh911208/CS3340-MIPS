@@ -1,0 +1,3 @@
+1. Write a recursive version of the program that calculates the sum of digits in a ZIP code given by the user in HW#3.
+
+Try to figure out which version is faster and explain why it is faster?

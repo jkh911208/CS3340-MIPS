@@ -1,0 +1,13 @@
+2. Write a MIPS assembly language program that
+
+a. prompts the user for a zip code (as a 5-digits unsigned integer, or 0) with the string "Give me your zip code (0 to stop): ". No error checking is necessary, assuming that the user will give correct numbers.
+
+b. if the input is 0 stops
+
+c. otherwise, calculates the sum of all digits, then print out the result with the leading string "The sum of all digits in your zip code is: "
+
+d. repeats from a.
+
+For example, if the user gave the input 75081 the program will print out "The sum of all digits in your zip code is:  21"
+
+Submit a Word document for item 1. and a zip file per instructions in the syllabus on submitting programming assignments for item 2. by the due date.

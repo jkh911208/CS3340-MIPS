@@ -1,0 +1,19 @@
+2. Tom eats pizza slices often and is curious about the size of the slices he has eaten in square inches. Write a MIPS assembly language program to give him that information. 
+
+Assuming that the pizzas have two sizes: small and large, have a perfect circle shape, and are divided equally into 8 slices. 
+
+The program stores the initial radiuses of the pizzas as 5 and 8 inches for small size and large size, respectively. It then repeatedly presents the user with a menu:
+
+a. change pizza sizes
+
+Program action: prompt the user for the new size of the small or large pizza (in inches), then update these values in memory.
+
+b. calculate the size of slices eaten. 
+
+Program action: prompt the user for the number of small slices and that of large slices eaten. After the user gives the input (e.g. 1 small, 2 large), calculate and display the size of eaten pizza in square inches.
+
+c. quit
+
+Program action: exit the loop and stop.
+
+Apparently, the calculation must be done using floating point arithmetic.

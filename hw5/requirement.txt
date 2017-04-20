@@ -1,0 +1,9 @@
+2. Write a MIPS assembly language program that does currency conversion between US dollar and Japanese Yen.
+The program must repeatedly present a menu that has 4 choices: 
+       1) Set the rate: prompts the user to input the exchange rate, e.g. if 1 US dollar  = 115 Yen then the user will input 115. The program then stores this information for future use. The initial rate should be set to 115.
+       2) US $ -> Yen conversion: the program prompts the user for the US amount, then displays the Yen amount.
+       3) Yen -> US $ conversion: the program prompts the user for the Yen amount, then displays BOTH the US $ amount AND the change in Yen. For example is the input was 250 and the rate is 115, the US $ amount is 2$, and the change is 20 Yen.
+       4) Exit: the program exits. 
+and process the choice from the user accordingly.
+Note: All numbers are integers, no need for floating point operations.
+Submit your work as specified in the syllabus to eLearning by the due date.

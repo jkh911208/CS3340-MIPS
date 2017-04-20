@@ -1,0 +1,2 @@
+1. Using MARS write a MIPS assembly language program to prompt for two integers A and B, store them in memory locations labelled A and B respectively, then calculate the difference between them (i.e. A - B) and store the difference into a memory location labelled D. After that print out the result (i.e. integer D) after printing the string "The difference between A and B (A - B) is ". Then assemble and run the program with MARS to show and capture the input/output. Follows instructions for programming assignments in the syllabus. 
+
